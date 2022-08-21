@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32721.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolfWebsite", "GolfWebsite\GolfWebsite.csproj", "{4FA71F44-B0EE-4F74-8EB8-CC0E578742CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA71F44-B0EE-4F74-8EB8-CC0E578742CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA71F44-B0EE-4F74-8EB8-CC0E578742CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA71F44-B0EE-4F74-8EB8-CC0E578742CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA71F44-B0EE-4F74-8EB8-CC0E578742CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F83830B-7822-496C-924A-48C848A69431}
+	EndGlobalSection
+EndGlobal
